@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeAnota", "MeAnota\MeAnota.csproj", "{CDD355A1-26FB-4CC4-B610-AB64E6CEB1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeAnota.Specs", "MeAnota.Specs\MeAnota.Specs.csproj", "{AC49F916-2B5B-4DA0-BEDB-08459D751B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD355A1-26FB-4CC4-B610-AB64E6CEB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD355A1-26FB-4CC4-B610-AB64E6CEB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD355A1-26FB-4CC4-B610-AB64E6CEB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD355A1-26FB-4CC4-B610-AB64E6CEB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC49F916-2B5B-4DA0-BEDB-08459D751B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC49F916-2B5B-4DA0-BEDB-08459D751B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC49F916-2B5B-4DA0-BEDB-08459D751B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC49F916-2B5B-4DA0-BEDB-08459D751B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
