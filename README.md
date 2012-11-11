@@ -1,3 +1,1 @@
-MeAnota
-=======
-Projeto para criação de um bloco de notas colaborativo na Web.
+Projeto de demonstração usando BDD com o SpecFlow
